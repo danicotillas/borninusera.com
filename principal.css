@@ -1,0 +1,174 @@
+.container{
+position:absolute;
+height:510px;
+width:800px;
+left:50%;
+margin-left:-400px;
+margin-top:15px;
+margin-bottom:15px;
+}
+.containercontact{
+position:absolute;
+height:510px;
+width:800px;
+left:50%;
+margin-left:-400px;
+margin-top:15px;
+border:1px;
+border-style:dotted;
+border-color:#999999;
+}
+
+.texthaiku{
+	position:absolute;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#999999;
+	font-size:10px;
+	width:800px;
+	left:396px;
+	margin-left:-400px;
+	text-align:center;
+}
+.texthaikuflash{
+position:absolute;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-weight:bold;
+color:#999999;
+font-size:10px;
+width:790px;
+left:50%;
+margin-left:-395px;
+text-align:left;
+margin-top: 5px;
+}
+.textrelax{
+	position:absolute;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	font-weight:bold;
+	color:#736e5f;
+	width:584px;
+	height:50px;
+	text-align:left;
+	left:402px;
+	margin-left:-305px;
+	margin-top:15px;
+	top: -6px;
+}
+
+
+.images{
+width:798px;
+border:1px;
+border-style:dotted;
+border-color:#999999;
+background-color:none;
+float:inherit;
+}
+
+.world{
+width:798px;
+height:500px;
+border:1px;
+border-style:dotted;
+border-color:#999999;
+background-color:none;
+float:inherit;
+background-position:center;
+background-repeat:no-repeat;
+}
+
+
+
+
+.imagesflash{
+width:798px;
+border:1px;
+border-style:dotted;
+border-color:#999999;
+background-color:none;
+float:inherit;
+text-align:right;
+}
+
+.contact{
+	
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+	color:#736e5f;
+	height:10px;
+	left:100px;
+	text-align:center;
+	padding-bottom: 8px;
+
+
+}
+.name{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+	color:#FF3399;
+}
+.message{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#666666;
+}
+.linkcontact{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+	color:#736e5f;
+	text-decoration:none;
+}
+.linkcontact a{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+	color:#736e5f;
+	text-decoration:none;
+
+}
+.linkcontact a:hover{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+	color:#FF3399;
+	text-decoration:none;
+
+}
+
+
+
+.contacttact{
+	position:absolute;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+	color:#736e5f;
+	width:584px;
+	height:10px;
+	text-align:center;
+	top:513px;
+	left:100px;
+}
+
+.barre{
+text-decoration:line-through;
+}
+
+.formulario {
+font-size:10px;
+font-weight:bold;
+position:absolute;
+height:365px;
+width:419px;	
+left: 203px;
+top: 103px;
+z-index: 17;
+}
+
+.textocontacta{
+	position:absolute;
+	top:218px;
+	left:189px;
+	width:444px;
+	text-align:justify;
+	z-index: 14;
+	height: 34px;
+}

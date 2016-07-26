@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^borninusera\.comunicacionabierta\.net$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.borninusera\.comunicacionabierta\.net$
+RewriteRule ^/?$ "http\:\/\/borninusera\.com" [R=301,L]
+
